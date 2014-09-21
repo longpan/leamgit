@@ -3,4 +3,5 @@ it is test the goback
 the third times goback
 four times
 git tracks changes i
-createing anew branch is quick`
+createing anew branch is quick`i
+coflict sove
